@@ -149,67 +149,70 @@ kubectl get all -n db-app
 
 ## 1. Create Web Namespace
 
-<img src="screenshots/01-create-web-namespace.png" width="1000">
+<img width="1920" height="1080" alt="1-create-web-namespace" src="https://github.com/user-attachments/assets/a9c5b335-0c48-4bd1-97a0-f3b97da549f3" />
 
 ---
 
 ## 2. Deploy Nginx Application
 
-<img src="screenshots/02-nginx-deployment.png" width="1000">
+<img width="1920" height="1080" alt="2-nginx-deployment" src="https://github.com/user-attachments/assets/16615490-462b-4296-8379-1793d39eba97" />
 
 ---
 
 ## 3. Create NodePort Service
 
-<img src="screenshots/03-nginx-service.png" width="1000">
+<img width="1920" height="1080" alt="3-nginx-service" src="https://github.com/user-attachments/assets/77817fa4-d6b0-49e8-91e6-8a39eab8cf7f" />
 
 ---
 
 ## 4. Scale Deployment
 
-<img src="screenshots/04-scale-deployment.png" width="1000">
+<img width="1920" height="1080" alt="4-scale-deployment" src="https://github.com/user-attachments/assets/ed814591-4dfc-4a30-b427-edcee1c5d651" />
 
 ---
 
 ## 5. Apply ResourceQuota
 
-<img src="screenshots/05-resource-quota.png" width="1000">
+<img width="1920" height="1080" alt="5-resource-quota" src="https://github.com/user-attachments/assets/af7d8fce-9a57-49a4-92a2-6b9e6f298805" />
 
 ---
 
 ## 6. Verify ResourceQuota
 
-<img src="screenshots/06-quota-verification.png" width="1000">
+<img width="1920" height="1080" alt="6-quota-verification" src="https://github.com/user-attachments/assets/0ce3364c-72f1-4581-aa35-51b4fa7d7efd" />
+
 
 ---
 
 ## 7. Create Database Namespace
 
-<img src="screenshots/07-create-db-namespace.png" width="1000">
+<img width="1920" height="1080" alt="7-create-db-namespace" src="https://github.com/user-attachments/assets/7e60b1b6-23cb-46e6-9102-40919f2c469b" />
+
 
 ---
 
 ## 8. Deploy MySQL
 
-<img src="screenshots/08-mysql-deployment.png" width="1000">
+<img width="1920" height="1080" alt="8-mysql-deployment" src="https://github.com/user-attachments/assets/c8269ad4-47c4-43f7-95b9-9a4d247610c0" />
 
 ---
 
 ## 9. Configure Environment Variables
 
-<img src="screenshots/09-set-environment-variables.png" width="1000">
+<img width="1920" height="1080" alt="9-set-environment-variables" src="https://github.com/user-attachments/assets/f14c7e69-7189-49b9-b761-44a37de52ecd" />
 
 ---
 
 ## 10. Verify Rollout Status
 
-<img src="screenshots/10-rollout-status.png" width="1000">
+<img width="1920" height="1080" alt="10-rollout-status" src="https://github.com/user-attachments/assets/34a20f75-656a-43bf-8221-22a50156fa46" />
+
 
 ---
 
 ## 11. Final Verification
 
-<img src="screenshots/11-final-verification.png" width="1000">
+<img width="1920" height="1080" alt="11-final-verification" src="https://github.com/user-attachments/assets/1a6c8845-9519-45eb-bf15-4802eb78a246" />
 
 ---
 
