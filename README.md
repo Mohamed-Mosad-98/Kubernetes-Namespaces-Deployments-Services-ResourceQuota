@@ -145,21 +145,71 @@ kubectl get all -n db-app
 
 ---
 
-# 📸 Screenshots
+# 📸 Deployment Screenshots
 
-The repository contains screenshots demonstrating:
+## 1. Create Web Namespace
 
-- Creating Namespaces
-- Deploying Nginx
-- Creating Services
-- Scaling Deployments
-- Applying ResourceQuota
-- Deploying MySQL
-- Setting Environment Variables
-- Deployment Verification
-- Final Kubernetes Resources
+<img src="screenshots/01-create-web-namespace.png" width="1000">
 
-All screenshots are available inside the **screenshots/** directory.
+---
+
+## 2. Deploy Nginx Application
+
+<img src="screenshots/02-nginx-deployment.png" width="1000">
+
+---
+
+## 3. Create NodePort Service
+
+<img src="screenshots/03-nginx-service.png" width="1000">
+
+---
+
+## 4. Scale Deployment
+
+<img src="screenshots/04-scale-deployment.png" width="1000">
+
+---
+
+## 5. Apply ResourceQuota
+
+<img src="screenshots/05-resource-quota.png" width="1000">
+
+---
+
+## 6. Verify ResourceQuota
+
+<img src="screenshots/06-quota-verification.png" width="1000">
+
+---
+
+## 7. Create Database Namespace
+
+<img src="screenshots/07-create-db-namespace.png" width="1000">
+
+---
+
+## 8. Deploy MySQL
+
+<img src="screenshots/08-mysql-deployment.png" width="1000">
+
+---
+
+## 9. Configure Environment Variables
+
+<img src="screenshots/09-set-environment-variables.png" width="1000">
+
+---
+
+## 10. Verify Rollout Status
+
+<img src="screenshots/10-rollout-status.png" width="1000">
+
+---
+
+## 11. Final Verification
+
+<img src="screenshots/11-final-verification.png" width="1000">
 
 ---
 
