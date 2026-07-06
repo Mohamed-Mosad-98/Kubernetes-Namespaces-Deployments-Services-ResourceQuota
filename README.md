@@ -3,7 +3,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.34-blue?logo=kubernetes)
 ![Platform](https://img.shields.io/badge/Platform-Minikube-orange)
 ![OS](https://img.shields.io/badge/OS-Ubuntu%2022.04-E95420?logo=ubuntu)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📖 Overview
 
